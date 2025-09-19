@@ -14,7 +14,7 @@ set(CMAKE_C_STANDARD 11)
 
 auto_source_group("." "auto-source-group" "\\.(cc|cpp|c|h)$")
 
-# --- options
+# --- option
 
 option(DOBBY_DEBUG "Enable debug logging" OFF)
 
